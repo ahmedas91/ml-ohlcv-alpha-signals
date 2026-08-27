@@ -1,0 +1,29 @@
+[project]
+name = "finm-33100-group-2"
+version = "0.1.0"
+description = "FINM 33100 Group 2 — Track 2 Technical Signal Discovery from OHLCV (Summer 2026)"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "pyarrow",
+    "ipykernel",
+    "jupyter",
+    "xgboost",
+    "tqdm",
+]
+
+[dependency-groups]
+dev = [
+    "ruff",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"

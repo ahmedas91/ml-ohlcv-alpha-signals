@@ -1,0 +1,4 @@
+config,daily_spearman_ic__paired_rank,daily_spearman_ic__paired_standardize,daily_spearman_ic__paired_delta_std_minus_rank,daily_spearman_ic__n_paired_years
+a_baseline,0.0086875688830462,0.0109035449717319,0.0022159760886856,5
+c_pruned,0.0091357594344414,0.0034667695234154,-0.0056689899110259,7
+d_full_pool,0.0092118217295921,0.0033955567636387,-0.0058162649659533,7

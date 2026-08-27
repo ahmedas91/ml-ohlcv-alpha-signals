@@ -1,0 +1,89 @@
+{
+  "n_rows": 6253895,
+  "n_permno": 3253,
+  "n_dates": 6266,
+  "date_min": "2001-02-01",
+  "date_max": "2025-12-31",
+  "names_per_day_min": 988,
+  "names_per_day_median": 998.0,
+  "names_per_day_max": 1000,
+  "dup_permno_date": 0,
+  "missing_share": {
+    "permno": 0.0,
+    "ticker": 0.0,
+    "date": 0.0,
+    "ret": 0.0,
+    "mcap": 0.0,
+    "turnover": 0.0,
+    "sic2": 0.0,
+    "volume": 0.0,
+    "open": 0.0006882111068382184,
+    "high": 0.0,
+    "low": 0.0,
+    "close": 0.0,
+    "shrout": 0.0,
+    "days_until_earn": 0.007742854652980262
+  },
+  "nonpos_close_share": 0.0,
+  "neg_volume_share": 0.0,
+  "ohlc_high_lt_body_share": 3.198007002036331e-07,
+  "ohlc_low_gt_body_share": 3.198007002036331e-07,
+  "n_segments": 8748,
+  "n_long_gaps": 5495,
+  "gap_hist_head": {
+    "1": 4888381,
+    "2": 62627,
+    "3": 1129072,
+    "4": 162084,
+    "5": 1981,
+    "6": 2,
+    "7": 998,
+    "8": 1,
+    "9": 1,
+    "29": 61,
+    "30": 20,
+    "31": 284,
+    "32": 586,
+    "33": 434,
+    "34": 337
+  },
+  "ret_vs_price_return": {
+    "n": 6245147,
+    "median_abs": 2.4937531237093427e-07,
+    "p99_abs": 5.496335775088956e-07,
+    "share_lt_1e8": 0.03314861923986737,
+    "share_lt_1e4": 0.9902016717941147
+  },
+  "fwd_ret_1d_vs_next_ret": {
+    "n": 6245147,
+    "median_abs": 2.4937531237093427e-07,
+    "p99_abs": 5.496335775088956e-07,
+    "share_lt_1e8": 0.03314861923986737,
+    "share_lt_1e4": 0.9902016717941147
+  },
+  "fwd_ret_1d_vs_close_ratio": {
+    "n": 6245147,
+    "median_abs": 0.0,
+    "p99_abs": 0.0,
+    "share_lt_1e8": 1.0,
+    "share_lt_1e4": 1.0
+  },
+  "fwd_ret_5d_vs_close_ratio": {
+    "n": 6210175,
+    "median_abs": 0.0,
+    "p99_abs": 0.0,
+    "share_lt_1e8": 1.0,
+    "share_lt_1e4": 1.0
+  },
+  "target_nan_share": {
+    "fwd_ret_1d": 0.0013988082626906911,
+    "fwd_ret_5d": 0.00699084330645142
+  },
+  "alpha_007": {
+    "share_eq_minus_1": 0.9988810124636025,
+    "nunique_total": 121,
+    "share_dates_cross_section_constant": 0.4157357165655921,
+    "nunique_by_year_min": 1,
+    "nunique_by_year_median": 104.0
+  }
+}
