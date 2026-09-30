@@ -1,5 +1,10 @@
 # Technical Signal Discovery from OHLCV Data
 
+**Team project.** This is a public copy of a 4-person group project for
+FINM 33100 (Foundations of Applied Machine Learning) at UChicago, Summer 2026.
+The original repository is private, so its history (82 commits across the
+team) is not shown here.
+
 Do OHLCV technical signals carry 1- and 5-day predictive content for U.S.
 equities beyond a 3-feature linear baseline? Report: `Report/main.tex`.
 
